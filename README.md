@@ -85,7 +85,7 @@ A cloud-based smart parking system with real-time availability.
   <img src="https://skillicons.dev/icons?i=py,java,go,react,html,css,js,git,github,aws,gcp,firebase,figma&theme=dark" alt="Python, Java, Go, React, HTML, CSS, JavaScript, Git, GitHub, AWS, Google Cloud, Firebase, Figma" />
 </p>
 
-Plus: SQL · RESTful APIs · Software architecture · Machine learning (KNN, SVM, Random Forest)
+Plus: SQL · RESTful APIs · Software architecture 
 
 **Soft skills**
 Problem-solving and analytical thinking · Stakeholder communication · Cross-functional collaboration · Adaptability and continuous learning
