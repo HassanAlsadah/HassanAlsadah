@@ -74,14 +74,12 @@ Plus: AI integration (Gemini), OAuth (Google, Microsoft), web security basics, a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAlsadah&layout=compact&hide_border=true&theme=transparent&title_color=8B6CF6&text_color=9a9a9a" height="165" alt="Most used languages" />
 </p>
 
-<!-- Optional: uncomment after adding docs/github-profile-snake.yml as .github/workflows/snake.yml in the profile repo.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HassanAlsadah/HassanAlsadah/output/snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/HassanAlsadah/HassanAlsadah/output/snake.svg" alt="Contribution graph animation" />
   </picture>
 </p>
--->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:6a4cf0,55:d63c6f,100:f2a93b" width="100%" alt="" />
