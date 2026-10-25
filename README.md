@@ -44,7 +44,7 @@ Each project follows the same format: **Problem → What I did → Outcome**.
 #### 1. Dreamplish: from the dream to the offer
 
 <a href="https://github.com/HassanAlsadah/Dreamplish">
-  <img src="assets/dreamplish.png" alt="Dreamplish dashboard: board of applications with an overview panel" width="100%" />
+  <img src="assets/dreamplish-dashboard.png" alt="Dreamplish dashboard: board of applications with an overview panel" width="100%" />
 </a>
 
 <p>
