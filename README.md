@@ -59,7 +59,7 @@ Each project follows the same format: **Problem → What I did → Outcome**.
 - **Outcome:** live and free to use: one place that tracks every application and helps you win it, in Arabic and English.
 
 <details>
-<summary><b>See all 14 features</b></summary>
+<summary><b>See all 15 features</b></summary>
 
 - **Kanban board:** drag jobs between stages, add and rename your own columns (names translate between Arabic and English), or switch to a list view.
 - **Status timeline:** every step of each application with dates, plus the next step to take.
@@ -68,6 +68,7 @@ Each project follows the same format: **Problem → What I did → Outcome**.
 - **Job description from a link:** fetches the description from the company's careers page.
 - **Match & CV score:** how well your CV fits each job, with the skills you're missing.
 - **Tailored CV:** rewritten for the job using only facts from your CV, even in your own Word design, ready to print as PDF.
+- **CV builder:** upload a PDF or Word CV and it's split into editable sections (no AI); keep up to 10 versions, choose layout, colour, font and spacing with a live preview, and download as PDF.
 - **Company briefing:** news, products, values, in-demand skills, Saudi salary ranges and watch-outs, with a source for every fact.
 - **Interview prep:** likely questions and talking points from the job, your CV and the briefing.
 - **Outlook sync:** reads your inbox (read-only) and suggests status updates you approve.
