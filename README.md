@@ -67,7 +67,7 @@ Each project follows the same format: **Problem → What I did → Outcome**.
 - **Check my fit:** paste a job or its link and get a requirement-by-requirement match score *before* you apply; unsent checks stay as drafts.
 - **Job description from a link:** fetches the description from the company's careers page.
 - **Match & CV score:** how well your CV fits each job, with the skills you're missing.
-- **Tailored CV:** rewritten for the job using only facts from your CV, even in your own Word design, ready to print as PDF.
+- **Tailored CV:** rewritten for the job using only facts from your CV, in the design of the CV you matched, ready to save as PDF.
 - **CV builder:** upload a PDF or Word CV and it's split into editable sections (no AI); keep up to 10 versions, choose layout, colour, font and spacing with a live preview, and download as PDF.
 - **Company briefing:** news, products, values, in-demand skills, Saudi salary ranges and watch-outs, with a source for every fact.
 - **Interview prep:** likely questions and talking points from the job, your CV and the briefing.
