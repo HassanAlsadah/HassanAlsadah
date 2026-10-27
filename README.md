@@ -43,15 +43,15 @@ Each project follows the same format: **Problem → What I did → Outcome**.
 
 #### 1. Dreamplish: from the dream to the offer
 
-<a href="https://github.com/HassanAlsadah/Dreamplish">
+<a href="https://github.com/HassanAlsadah/dreamplish-product">
   <img src="assets/dreamplish-dashboard.png" alt="Dreamplish dashboard: board of applications with an overview panel" width="100%" />
 </a>
 
 <p>
   <img src="https://img.shields.io/badge/Product-built%20%26%20shipped-6a4cf0?style=flat-square" alt="Product, built and shipped" />
   <a href="https://dreamplish.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-d63c6f?style=flat-square" alt="Live demo" /></a>
-  <a href="https://github.com/HassanAlsadah/Dreamplish/tree/main/docs/product"><img src="https://img.shields.io/badge/Case%20study-f2a93b?style=flat-square" alt="Case study" /></a>
-  <a href="https://github.com/HassanAlsadah/Dreamplish"><img src="https://img.shields.io/badge/Code-555555?style=flat-square" alt="Code" /></a>
+  <a href="https://github.com/HassanAlsadah/dreamplish-product/tree/main/docs/product"><img src="https://img.shields.io/badge/Case%20study-f2a93b?style=flat-square" alt="Case study" /></a>
+  <a href="https://github.com/HassanAlsadah/dreamplish-product"><img src="https://img.shields.io/badge/Product%20docs-555555?style=flat-square" alt="Product docs" /></a>
 </p>
 
 - **Problem:** job seekers track applications in scattered places and spend hours researching each company before interviews.
